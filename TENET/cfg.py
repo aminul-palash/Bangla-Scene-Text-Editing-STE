@@ -21,7 +21,7 @@ write_log_interval = 50
 save_ckpt_interval = 1000
 gen_example_interval = 1000
 checkpoint_savedir = 'logs/'
-ckpt_path = '/home/bjit/Downloads/SRNET/SRNET/train_step-500000.model'
+ckpt_path = '/home/user/Downloads/SRNET/SRNET/train_step-500000.model'
 
 # data
 batch_size = 8
@@ -34,10 +34,10 @@ t_t_dir = 't_t'
 t_b_dir = 't_b'
 t_f_dir = 't_f'
 mask_t_dir = 'mask_t'
-example_data_dir ='/home/bjit/Downloads/SRNET/srnet_datagen/Synthtext/datasets/srnet_data/test_data_1' #'/content/drive/MyDrive/SRNet/image_for_tetsing' #'/content/drive/MyDrive/SRNet/test_data_1_unzip'
+example_data_dir ='/home/user/Downloads/SRNET/srnet_datagen/Synthtext/datasets/srnet_data/test_data_1' #'/content/drive/MyDrive/SRNet/image_for_tetsing' #'/content/drive/MyDrive/SRNet/test_data_1_unzip'
 example_result_dir = 'custom_feed/gen_logs'
 
 # predict
 predict_ckpt_path = None
 predict_data_dir = None
-predict_result_dir = '/home/bjit/Downloads/SRNET/SRNET/custom_feed'
+predict_result_dir = '/home/user/Downloads/SRNET/SRNET/custom_feed'
