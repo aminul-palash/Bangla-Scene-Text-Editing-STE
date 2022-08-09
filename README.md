@@ -1,1 +1,1 @@
-# Bangla-TENET
+# Bangla Scene Text Editing (STE) system
